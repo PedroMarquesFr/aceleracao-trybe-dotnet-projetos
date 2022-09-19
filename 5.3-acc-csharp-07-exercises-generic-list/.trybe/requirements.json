@@ -1,0 +1,20 @@
+{
+  "requirements": [
+    {
+      "bonus": false,
+      "description": "1 - Implementar a funcionalidade de Procurar por índice e seus testes",
+      "enabled": true,
+      "identifier": null,
+      "order": 1,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "2 - Implementar a funcionalidade de Procurar por Elemento e seus testes",
+      "enabled": true,
+      "identifier": null,
+      "order": 2,
+      "skill_ids": []
+    }
+  ]
+}

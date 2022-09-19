@@ -1,0 +1,12 @@
+{
+  "requirements": [
+    {
+      "bonus": false,
+      "description": "1 - Escolher os modificadores de acesso da classe Employee",
+      "enabled": true,
+      "identifier": null,
+      "order": 1,
+      "skill_ids": []
+    }
+  ]
+}

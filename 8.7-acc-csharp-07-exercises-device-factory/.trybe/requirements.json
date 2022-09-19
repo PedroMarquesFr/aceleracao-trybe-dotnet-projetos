@@ -1,0 +1,84 @@
+{
+  "requirements": [
+    {
+      "bonus": false,
+      "description": "1 - Teste TestLampIsInstanceOfIDevice foi criado",
+      "enabled": true,
+      "identifier": null,
+      "order": 1,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "2 - Teste TestLampTurnOnWhenLampIsOff foi criado",
+      "enabled": true,
+      "identifier": null,
+      "order": 2,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "3 - Teste TestLampTurnOffWhenLampIsOn foi criado",
+      "enabled": true,
+      "identifier": null,
+      "order": 3,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "4 - Teste TestLampTurnOnAndTurnOffSequentially foi criado",
+      "enabled": true,
+      "identifier": null,
+      "order": 4,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "5 - Teste TestBellIsInstanceOfIDevice foi criado",
+      "enabled": true,
+      "identifier": null,
+      "order": 5,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "6 - Teste TestBellTurnOnWhenBellIsOff foi criado",
+      "enabled": true,
+      "identifier": null,
+      "order": 6,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "7 - Teste TestBellTurnOffWhenBellIsOn foi criado",
+      "enabled": true,
+      "identifier": null,
+      "order": 7,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "8 - Teste TestBellTurnOnAndTurnOffSequentially foi criado",
+      "enabled": true,
+      "identifier": null,
+      "order": 8,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "9 - Teste TestButtonCanInstantiateWithDifferentDevices foi criado",
+      "enabled": true,
+      "identifier": null,
+      "order": 9,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "10 - Test TestSwitcherCanRecieveDifferentDevices foi criado",
+      "enabled": true,
+      "identifier": null,
+      "order": 10,
+      "skill_ids": []
+    }
+  ]
+}

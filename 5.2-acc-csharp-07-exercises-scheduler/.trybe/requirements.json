@@ -1,0 +1,12 @@
+{
+  "requirements": [
+    {
+      "bonus": false,
+      "description": "1 - Criou testes de sucesso para o TestRemoveFirstEvent.",
+      "enabled": true,
+      "identifier": null,
+      "order": 1,
+      "skill_ids": []
+    }
+  ]
+}

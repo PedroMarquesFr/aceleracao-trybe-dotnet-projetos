@@ -1,0 +1,20 @@
+{
+  "requirements": [
+    {
+      "bonus": false,
+      "description": "1 - Criou testes para o TestCurrentYearSuccess",
+      "enabled": true,
+      "identifier": null,
+      "order": 1,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "2 - Testes de implementação de Swagger UI",
+      "enabled": true,
+      "identifier": null,
+      "order": 2,
+      "skill_ids": []
+    }
+  ]
+}

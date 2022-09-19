@@ -1,0 +1,2 @@
+ignore_files:
+  - src/employee-registration.Test.Test/
